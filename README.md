@@ -172,7 +172,7 @@ This project is created for learning and educational purposes.
 
 ## Author
 
-**Your Name**
+**Motilal Gupta**
 
 Java Developer | Backend Development Enthusiast
 
